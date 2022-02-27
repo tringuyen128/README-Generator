@@ -1,8 +1,10 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
+const util = require("util");
+const generateReadme = require("./utils/generateReadme")
+const writeFileAsync = util.promisify(fs.writeFile);
+// these answer to populate the README.md inside dist folder
 
-
-// these questions to populate the README.md
 function promptUser(){
     return inquirer.prompt([
         {
