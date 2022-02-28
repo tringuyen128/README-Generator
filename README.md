@@ -8,9 +8,7 @@
   
 💻 Below is the gif showing the functionality of the application:
 
-<div>
-    <img src="./src/screenrecord.gif" width="400px"/> 
-</div>
+![README Generator](./screenrecord.gif)
   
 
 ## User Story
