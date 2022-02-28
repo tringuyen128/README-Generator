@@ -8,7 +8,7 @@
   
 💻 Below is the gif showing the functionality of the application:
 
-![README Generator](./src/screenrecord.gif)
+![README Generator](./src/Screen Recording.gif)
   
 
 ## User Story
